@@ -10,4 +10,4 @@ The goal is to inform and spread awareness about phishing by creating a detailed
 > [!NOTE]
 > Sender's display name matched the name of the organization's president.
 
-<a href="https://github.com/ponsinfosec/phishing-analysis/blob/main/threat-intelligence.md">Threat Intelligence</a>
+1. <a href="https://github.com/ponsinfosec/phishing-analysis/blob/main/threat-intelligence.md">Threat Intelligence</a>
