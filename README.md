@@ -13,13 +13,13 @@ The goal is to inform and spread awareness about phishing by creating a detailed
 
 ```mermaid
 ---
-title: Tracing the Email's Journey from the Origin
+title: Tracing the Email's Path from the Origin
 ---
 %%{init: {
   "theme": "base",
   "themeVariables": {
     "primaryColor": "#008f11",
-    "primaryTextColor": "#00FF41",
+    "primaryTextColor": "#fff",
     "primaryBorderColor": "#00FF41",
     "lineColor": "#00FF41",
     "secondaryColor": "#006100"
