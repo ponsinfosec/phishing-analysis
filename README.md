@@ -18,8 +18,8 @@ title: Tracing the Email's Path from the Origin
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "primaryColor": "#008f11",
-    "primaryTextColor": "#fff",
+    "primaryColor": "#0D0208",
+    "primaryTextColor": "#00ff41",
     "primaryBorderColor": "#00FF41",
     "lineColor": "#00FF41",
     "secondaryColor": "#006100"
