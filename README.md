@@ -3,5 +3,5 @@ A case study of a phishing email I received while being employed part-time at a 
 
 ### Phishing Email Screenshot
 
-![phishing_email_attempt](https://github.com/user-attachments/assets/eef5bb3f-03ea-49e5-98ae-964a7594e7d3)
+![phishing_email_attempt](https://github.com/user-attachments/assets/9e785f7b-33c4-4979-ad0f-ae7dcec81799)
 *Placeholder names were added using inspect element.*
