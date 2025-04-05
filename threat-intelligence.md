@@ -1,4 +1,5 @@
 # Threat Intelligence
 
-To begin, I would like to explore the mechanism by which the threat actor went about sending this email.
-1. <a href="https://github.com/ponsinfosec/phishing-analysis/blob/main/email-path.md"Email Path</a>
+To begin, I would like to follow the trail of this email from sender to destination. Let's find the origin.
+
+Here's the <a href="https://github.com/ponsinfosec/phishing-analysis/blob/main/email-path.md">Email Path</a>
